@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "title": "Fan",
+      "price": 30,
+      "image": "https://images.pexels.com/photos/3675622/pexels-photo-3675622.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 2,
+      "title": "Kettle",
+      "price": 20,
+      "image": "https://images.unsplash.com/photo-1571552879083-e93b6ea70d1d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80"
+    },
+    {
+      "id": 3,
+      "title": "Laptop",
+      "price": 750,
+      "image": "https://images.pexels.com/photos/812264/pexels-photo-812264.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 4,
+      "title": "Smartphone",
+      "price": 500,
+      "image": "https://cdn.pixabay.com/photo/2013/07/12/18/39/smartphone-153650_960_720.png"
+    },
+    {
+      "id": 5,
+      "title": "Microwave",
+      "price": 150,
+      "image": "https://images.unsplash.com/photo-1585659722983-3a675dabf23d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id": 6,
+      "title": "Smartwatch",
+      "price": 45,
+      "image": "https://images.pexels.com/photos/393047/pexels-photo-393047.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 7,
+      "title": "Lamp",
+      "price": 25,
+      "image": "https://images.pexels.com/photos/1103745/pexels-photo-1103745.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 8,
+      "title": "Microphone",
+      "price": 30,
+      "image": "https://images.unsplash.com/photo-1588800347304-ec7e6f353327?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80"
+    },
+    {
+      "id": 9,
+      "title": "Television",
+      "price": 80,
+      "image": "https://cdn.pixabay.com/photo/2012/02/28/00/44/blank-17768_960_720.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Drill",
+      "price": 40,
+      "image": "https://images.unsplash.com/photo-1572981779307-38b8cabb2407?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80"
+    },
+    {
+      "id": 11,
+      "title": "VR Set",
+      "price": 65,
+      "image": "https://images.unsplash.com/photo-1617802690992-15d93263d3a9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id": 12,
+      "title": "Router",
+      "price": 30,
+      "image": "https://images.unsplash.com/photo-1626177275306-4245f57e32b3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=419&q=80"
+    }
+  ]
