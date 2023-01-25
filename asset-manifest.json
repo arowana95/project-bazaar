@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/project-bazaar/static/css/main.e8529b2e.css",
+    "main.js": "/project-bazaar/static/js/main.6b4b7a4c.js",
+    "index.html": "/project-bazaar/index.html",
+    "main.e8529b2e.css.map": "/project-bazaar/static/css/main.e8529b2e.css.map",
+    "main.6b4b7a4c.js.map": "/project-bazaar/static/js/main.6b4b7a4c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8529b2e.css",
+    "static/js/main.6b4b7a4c.js"
+  ]
+}
